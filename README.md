@@ -4,7 +4,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/mockrest-cli.svg)](https://pypi.org/project/mockrest-cli/)
 [![GitHub stars](https://img.shields.io/github/stars/uchiha-fire/mockrest-cli?style=social)](https://github.com/uchiha-fire/mockrest-cli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Sharma-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sharma-28487819b/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/uchiha-fire/mockrest-cli/blob/main/LICENSE)
 [![Zephyrus Labs](https://img.shields.io/badge/Developed%20by-Zephyrus%20Labs-6366f1.svg)](https://zephyrus-labs.tech/)
 
 An instant, zero-config mock REST API server with full CRUD, CORS, latency simulation, and OpenAPI 3.0 generation by **[Zephyrus Labs](https://zephyrus-labs.tech/)** for Linux, macOS, and Windows.
@@ -192,7 +192,7 @@ If you find this tool helpful, please give it a ⭐️ on [GitHub](https://githu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/uchiha-fire/mockrest-cli/blob/main/LICENSE) file for details.
 
 ---
 
